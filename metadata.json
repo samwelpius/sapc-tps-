@@ -1,0 +1,6 @@
+{
+  "name": "SAPC TPS",
+  "description": "SAPC TPS - Premium Football Betting Tips with VIP Active Betslips, Tanzanian PesaPal auto-activation, and Admin Dashboard",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
